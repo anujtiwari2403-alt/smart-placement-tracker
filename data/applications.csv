@@ -1,0 +1,8 @@
+applicationId,companyName,jobRole,type,applicationDate,status,compensation,location,jobPostingUrl,interviewDate,notes
+APP-101,Google,SWE Intern,INTERNSHIP,2026-01-10,INTERVIEW,110000.0,Bengaluru,https://careers.google.com/jobs/101,2026-10-25,Round 2 technical interview on DSA and Graphs
+APP-102,Microsoft,Software Engineer 1,FULL_TIME,2026-01-14,ASSESSMENT,1800000.0,Hyderabad,https://careers.microsoft.com/102,,Online assessment scheduled for next week
+APP-103,Amazon,SDE Intern,INTERNSHIP,2026-01-18,OFFER,80000.0,Bengaluru,https://amazon.jobs/103,,6 months summer internship offer received!
+APP-104,Uber,Software Engineer,FULL_TIME,2026-01-20,APPLIED,2400000.0,Bengaluru,https://uber.com/careers/104,,Applied via senior referral
+APP-105,Adobe,Member of Tech Staff,FULL_TIME,2026-01-22,REJECTED,1700000.0,Noida,https://adobe.com/careers/105,,Resume screening rejected
+APP-106,Atlassian,Software Engineer,FULL_TIME,2026-01-25,ASSESSMENT,2600000.0,Bengaluru,https://atlassian.com/careers,,Awaiting HackerRank OA results
+APP-107,Goldman Sachs,Summer Analyst,INTERNSHIP,2026-02-01,WITHDRAWN,100000.0,Bengaluru,https://goldmansachs.com/careers,,Withdrawn due to offer acceptance

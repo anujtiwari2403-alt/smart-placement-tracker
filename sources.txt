@@ -1,0 +1,10 @@
+C:\Users\anuj\.gemini\antigravity\scratch\SmartPlacementTracker\src\com\smartplacementtracker\Main.java
+C:\Users\anuj\.gemini\antigravity\scratch\SmartPlacementTracker\src\com\smartplacementtracker\algorithms\SearchAlgorithms.java
+C:\Users\anuj\.gemini\antigravity\scratch\SmartPlacementTracker\src\com\smartplacementtracker\algorithms\SortAlgorithms.java
+C:\Users\anuj\.gemini\antigravity\scratch\SmartPlacementTracker\src\com\smartplacementtracker\analytics\DashboardService.java
+C:\Users\anuj\.gemini\antigravity\scratch\SmartPlacementTracker\src\com\smartplacementtracker\model\Application.java
+C:\Users\anuj\.gemini\antigravity\scratch\SmartPlacementTracker\src\com\smartplacementtracker\model\ApplicationStatus.java
+C:\Users\anuj\.gemini\antigravity\scratch\SmartPlacementTracker\src\com\smartplacementtracker\model\ApplicationType.java
+C:\Users\anuj\.gemini\antigravity\scratch\SmartPlacementTracker\src\com\smartplacementtracker\service\PlacementService.java
+C:\Users\anuj\.gemini\antigravity\scratch\SmartPlacementTracker\src\com\smartplacementtracker\storage\FileStorage.java
+C:\Users\anuj\.gemini\antigravity\scratch\SmartPlacementTracker\src\com\smartplacementtracker\util\InputValidator.java
